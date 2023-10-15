@@ -1,0 +1,6 @@
+spring:
+  jackson:
+    mapper:
+      SORT_PROPERTIES_ALPHABETICALLY: false
+    serialization:
+      ORDER_MAP_ENTRIES_BY_KEYS: false
